@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "baseUrl": ".",
+    "paths": {
+      "App": ["./"],
+      "Forms": ["./components/forms"],
+      "Links": ["./components/links"],
+      "Tags": ["./components/tags"]
+    }
+  },
+  "exclude": ["dist"]
+}
